@@ -1,5 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://dev.azure.com/jaxaz400/Enabling%20Extenal%20Continuous%20Integration%20with%20Azure%20Pipelines/_apis/build/status%2Fjoaopfsouza.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/jaxaz400/Enabling%20Extenal%20Continuous%20Integration%20with%20Azure%20Pipelines/_build/latest?definitionId=11&branchName=refs%2Fpull%2F1%2Fmerge)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
